@@ -1,0 +1,6 @@
+const chosenLetters = "";
+
+function chooseLetters() {
+    
+}
+
